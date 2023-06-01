@@ -22,7 +22,7 @@ This repository contains an HTML and CSS code for creating a simple animation wi
 
 ## Demo
 
-You can view a live demo of the animation [here](https://codepen.io/alexandru-balan/full/abJjJjJ).
+You can view a live demo of the animation [here](https://yashasewi.github.io/Cursor-animation/).
 
 
 ## Themes
