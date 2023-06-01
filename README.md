@@ -4,6 +4,31 @@
 
 This repository contains an HTML and CSS code for creating a simple animation with a moving circle and text. The animation responds to user interactions by changing the size of the circle and updating its position based on the user's mouse movements.
 
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Demo](#demo)
+- [Table of Contents](#table-of-contents)
+- [Features](#features)
+- [Themes](#themes)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [How It Works](#how-it-works)
+- [Customization](#customization)
+- [Dependencies](#dependencies)
+- [License](#license)
+
+## Demo
+
+You can view a live demo of the animation [here](https://codepen.io/alexandru-balan/full/abJjJjJ).
+
+
+## Themes
+
+<i>You have multiple themes to choose from by pressing the right and left arrow keys.</i>
+
 ## Prerequisites
 
 To run this animation, you need a web browser that supports HTML5 and CSS3.
@@ -47,10 +72,6 @@ You can customize the appearance of the animation by modifying the CSS styles in
 The animation relies on the following external resources:
 
 - [Google Fonts](https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap): The Poppins font is used for the text.
-
-## Acknowledgements
-
-The code in this repository is based on the work of an anonymous contributor.
 
 ## License
 
