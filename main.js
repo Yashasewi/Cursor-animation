@@ -1,15 +1,3 @@
-// const cursor = document.querySelector(".cursor");
-
-// const main = document.querySelector(".matter");
-
-// window.addEventListener("mousemove", (event) => {
-//     cursor.style.top = event.pageY  + "px";
-//     cursor.style.left = event.pageX  + "px";
-//     // cursor.style.borderRadius = 2;
-//     console.log(event);
-//     // console.log(event.pageX , event.pageY)
-// });
-
 // Clone the content element from the HTML and add the 'd-absolute' class to it
 var content = document.querySelector("#content").cloneNode(true);
 content.classList.add("d-absolute");
